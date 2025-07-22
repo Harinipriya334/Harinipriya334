@@ -89,8 +89,8 @@ To obtain a challenging position in a high-quality engineering environment where
 </p>
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harinipriya334&show_icons=true&theme=radical&hide_border=true&border_radius=20" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harinipriya334&theme=radical&hide_border=true&border_radius=20" width="46%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Harinipriya334&show_icons=true&theme=merko&hide_border=true&border_radius=20" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harinipriya334&theme=merko&hide_border=true&border_radius=20" width="46%" />
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harinipriya334&layout=compact&theme=radical&hide_border=true&border_radius=20" width="45%" />
+  
 </div>
